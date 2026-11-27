@@ -1,0 +1,12 @@
+name = "oeis_a172572_supercongruence_lean"
+version = "0.1.0"
+defaultTargets = ["OEIS_A172572_Supercongruence"]
+
+[[require]]
+name = "mathlib"
+scope = "leanprover-community"
+rev = "348837d3aa976624060d7c35c183fff587c5a24a"
+
+[[lean_lib]]
+name = "OEIS_A172572_Supercongruence"
+roots = ["OEIS_A172572_Supercongruence"]

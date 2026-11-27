@@ -1,0 +1,4 @@
+import OEIS_A172572_Supercongruence
+
+#print axioms OEIS_A172572.aArray_prime_mod_sq
+#print axioms OEIS_A172572.oeis_A172572_conj1
